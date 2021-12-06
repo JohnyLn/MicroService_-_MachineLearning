@@ -1,0 +1,1 @@
+RUN pipenv install -r requirements.txt
